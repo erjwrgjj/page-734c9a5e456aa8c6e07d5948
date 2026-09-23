@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c6a7d1de01384bec2a6d6a46",
+  "owner": "erjwrgjj",
+  "repo": "page-734c9a5e456aa8c6e07d5948",
+  "title": "Rinki云(Rinki)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "734c9a5e456aa8c6e07d5948",
+      "a": "Rinki云(Rinki)",
+      "b": "稳定全球clash加速器",
+      "entity": "Rinki云(Rinki)",
+      "brand": "Rinki云(Rinki)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a5baa98a60e1e58e26b29563373940682bcafbfd9c8edf00982fdad24c7210f5",
+      "content": {
+        "primary_entity": "Rinki云(Rinki)",
+        "keyword1": "Rinki云(Rinki)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，再导入 Rinki 订阅。",
+          "AI_CLIENTS_TITLE": "按设备挑客户端",
+          "AI_CLOSING_TEXT": "从基础版开始试用，再按设备数量与流量需求升级到旗舰版或团队版。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档订阅，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备在线需求，适配 Clash 等常见客户端。基础版适合轻量浏览与单设备日常使用，旗舰版加入 IPLC 专线并优化流媒体与游戏体验，团队版面向多设备与高带宽场景。年付方案在月付基础上进一步降低长期使用成本，订阅配置依照各客户端导入文档完成节点加载。",
+          "AI_FEATURES_INTRO": "从套餐额度、设备数量与订阅周期三个角度挑选。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15 含 100GB，旗舰版 ¥35 含 300GB，团队版 ¥85 含 1000GB。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台三档在线设备数，对应个人、家庭与小型团队规模。",
+          "AI_FEATURE_TITLE_2": "按设备定规格",
+          "AI_FEATURE_TEXT_3": "年付方案分别为 ¥150、¥350、¥850，适合长期稳定使用的订阅周期。",
+          "AI_FEATURE_TITLE_3": "按周期看价格",
+          "AI_GUIDE_INTRO": "确认设备数量与流量需求，再按客户端文档完成订阅。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "Rinki云(Rinki)提供基础版、旗舰版、团队版三档订阅，月流量从 100GB 到 1000GB，同时在线设备从 3 台到 20 台。选好档位后按设备类型选择客户端，依照对应导入文档完成订阅配置即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档订阅按需选配",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 月流量三档可选",
+          "AI_HIGHLIGHT_2": "3 台、5 台、20 台设备在线规格",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线与流媒体优化",
+          "AI_PLANS_INTRO": "对照流量、设备数量与年付价格，找到合适档位。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "先看每月流量与同时在线设备数，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_1": "选服务档位",
+          "AI_STEP_TEXT_2": "查看所选档位对设备数量与客户端类型的适配要求，确认自身设备满足条件。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_3": "依照所用客户端的导入文档添加 Rinki 订阅，保存后即可加载节点。",
+          "AI_STEP_TITLE_3": "按文档配订阅",
+          "AI_VISUAL_TITLE": "Rinki云订阅，按需选档",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备、每月 100GB 以内的轻度浏览；旗舰版提供 300GB 流量与 IPLC 专线优化，适合游戏和流媒体；团队版支持 20 台设备和 1000GB 流量。",
+          "AI_FAQ_ANSWER_2": "按年付比月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_3": "Rinki 云提供普通线路、IPLC 专线和 VIP 高带宽节点，不同套餐可用的节点池有所区别，旗舰版和团队版覆盖更广。",
+          "AI_FAQ_ANSWER_4": "在客户端新建订阅并粘贴订阅地址，更新节点后选择线路连接。客户端不同，导入方式略有差异，可参考对应客户端的配置说明。",
+          "AI_FAQ_ANSWER_5": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线，可根据人数和终端数量选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐分别适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "按月付和按年付怎么选？",
+          "AI_FAQ_QUESTION_3": "Rinki 云的线路类型有哪些？",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "同时在线设备数量如何计算？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bqxzk.cn",
+    "host": "bqxzk.cn"
+  },
+  "file_hashes": {
+    "index.html": "122f7f83aaab77f3da95cd57d961fbc1133f38a94baf91d013703c9670af3726",
+    "sitemap.xml": "8ab9724a24e480ab421807c3b4edca0c7af5bf6dde8d3c8c08d7fe735ff0f064",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6afea7059e5fa5b0a6da529940cbee674a17fb16452ef14bab8ddccd316db314",
+    "robots.txt": "efa55af9aeb264be05127e8a6505d022eebc5e3842d33fe4d2d29cd6a3535273",
+    "1a6d554dba65403ba297cc728c74bdd1.txt": "740ea7583c88938ab4e50353ec7ad13776636ee0713189dae4c4ebed24d24a94"
+  },
+  "revision": "b4e4f9d66f33c93bf430d4b3e098b185be3f15a5088ffc5d1b25bcd52fef0303"
+}
